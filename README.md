@@ -62,5 +62,5 @@ ____
 
 ## Training Model
 
-For training the model we can use any sort of algorithms.I used Naive Bayes classifier
+For training the model we can use any sort of algorithms.I used Naive Bayes classifier.
 
